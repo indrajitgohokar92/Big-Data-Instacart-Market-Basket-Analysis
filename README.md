@@ -1,0 +1,2 @@
+# Big-Data-Instacart-Market-Basket-Analysis
+Implemented Random Forest, Gradient Boosted Tree and Decision Tree regression using PySpark and Spark MLlib libraries to get predict the threshold values to determine whether a previously purchased product would be present in a customers future order given certain order related features like order time of day, order day of the week and so on. Also added new features to the training dataset to enhance the model.
